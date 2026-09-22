@@ -1,10 +1,8 @@
-https://online-quiz-app-1-401l.onrender.com/
-
 🎯 Online Quiz App
 A full-stack Online Quiz Application built using React, Node.js and Express.
 
 🚀 Live Demo
-👉 [Open Online Quiz App](https://online-quiz-app-1-401l.onrender.com/)
+👉 Open Online Quiz App - https://online-quiz-app-1-401l.onrender.com/
 
 ✨ Features
 - Multiple-choice quiz questions
